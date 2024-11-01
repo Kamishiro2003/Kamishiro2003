@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Frameworks and courses, etc.**
 
-- 👨‍💻 All of my projects are available at https://github.com/DeadEnd777?tab=repositories
+- 👨‍💻 All of my projects are available at https://github.com/Kamishiro2003?tab=repositories
 
-- 💬 Ask me about **Django and Springboot**
+- 💬 Ask me about **Java and Springboot**
 
 - 📫 How to reach me **darwingranados96@gmail.com**
 
