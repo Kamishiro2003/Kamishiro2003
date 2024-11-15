@@ -49,9 +49,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <br>
 <p align="center">
-<a href="https://github.com/DeadEnd777">
-  <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeadEnd777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeadEnd777&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Kamishiro2003">
+  <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kamishiro2003&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kamishiro2003&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br>
